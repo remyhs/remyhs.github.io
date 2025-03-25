@@ -1,0 +1,28 @@
+title: "Remy Hoek Spaans"
+description: "Reflections, tutorials, and ideas on planetary and global health"
+baseurl: "" # leave this blank for user sites
+url: "https://remyhs.github.io" # your GitHub Pages URL
+
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+author:
+  name: "Remy Hoek Spaans"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Infectious disease modeller working at the intersection of climate, health, and environment."
+  location: "Barcelona, Spain"
+  links:
+    - label: "CV"
+      url: /cv/
+    - label: "LinkedIn"
+      url: https://www.linkedin.com/in/remyhoekspaans
+    - label: "GitHub"
+      url: https://github.com/remyhs
+    - label: "Bluesky"
+      url: https://bsky.app/profile/remyhs.bsky.social
+
+# Optional analytics, fonts, social, etc.
