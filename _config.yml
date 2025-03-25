@@ -5,6 +5,7 @@ url: "https://remyhs.github.io" # your GitHub Pages URL
 
 theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
+navigation: main
 
 plugins:
   - jekyll-include-cache
