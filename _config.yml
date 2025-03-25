@@ -3,7 +3,6 @@ description: "Reflections, tutorials, and ideas on planetary and global health"
 baseurl: "" # leave this blank for user sites
 url: "https://remyhs.github.io" # your GitHub Pages URL
 
-theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
 navigation: main
 
