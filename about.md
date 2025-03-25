@@ -13,5 +13,5 @@ Thanks for stopping by! 🌍
 
 You can check out my:
 - [CV](/cv/)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/remyhoekspaans/)
 - [Publications](#) *(coming soon)*
